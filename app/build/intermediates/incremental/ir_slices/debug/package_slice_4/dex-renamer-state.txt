@@ -1,0 +1,4 @@
+#Tue May 22 20:43:10 COT 2018
+base.0=C\:\\Users\\HardSoft\\Downloads\\Compressed\\Splash\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+path.0=classes.dex
+renamed.0=classes.dex

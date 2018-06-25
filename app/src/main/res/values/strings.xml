@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cochera Saimt</string>
+    <string name="ingrese_Email">Ingrese su Email</string>
+    <string name="ingrese_Costrasena">Ingrese su Costraseña</string>
+    <string name="Registrar">Registrar Usuario</string>
+    <string name="Login">Login</string>
+    <string name="buton_cerra">cerrar sesion</string>
+    <string name="buton_ir">ir a reservar</string>
+    <string name="facebook_app_id">203620627025715</string>
+    <string name="fb_login_protocol_scheme">fb203620627025715</string>
+    <string name="cancel_login">cancelacion de inicio</string>
+    <string name="error_login">error de inicio de facebook</string>
+
+    <string name="txt_ingreseCantidad">Horas a Reservar</string>
+    <string name="txt_ingreseFecha">Fecha</string>
+    <string name="txt_ingreseHora">Hora</string>
+    <string name="txt_salidafecha">Fecha</string>
+
+
+</resources>
